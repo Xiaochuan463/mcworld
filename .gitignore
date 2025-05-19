@@ -1,0 +1,12 @@
+# 忽略玩家数据和日志
+playerdata/
+stats/
+advancements/
+session.lock
+
+# 忽略日志和备份
+*.log
+*.bak
+
+# 如果你不想记录 block 改动太频繁的 chunks
+region/*

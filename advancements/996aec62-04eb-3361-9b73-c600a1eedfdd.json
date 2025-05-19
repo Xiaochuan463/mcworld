@@ -4080,34 +4080,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "minecraft:recipes/food/suspicious_stew_from_allium": {
     "criteria": {
-      "has_magma_cream": "2025-05-18 16:51:05 +0800"
+      "has_allium": "2025-05-18 15:12:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-18 15:12:08 +0800"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_lime_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-18 15:12:19 +0800"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/leash_all_frog_variants": {
-    "criteria": {
-      "minecraft:temperate": "2025-05-18 16:44:24 +0800",
-      "minecraft:cold": "2025-05-18 16:54:07 +0800"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-05-18 17:13:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_allium": {
-    "criteria": {
-      "has_allium": "2025-05-18 15:12:08 +0800"
     },
     "done": true
   },
@@ -4123,19 +4110,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-05-18 17:13:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2025-05-18 16:03:49 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-18 15:12:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-18 15:12:19 +0800"
     },
@@ -4147,21 +4128,40 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+  "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
-      "has_needed_dye": "2025-05-18 15:12:19 +0800"
+      "has_mud": "2025-05-18 16:03:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:temperate": "2025-05-18 16:44:24 +0800",
+      "minecraft:cold": "2025-05-18 16:54:07 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-18 16:51:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-18 17:13:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-18 17:13:31 +0800"
     },
     "done": true
   },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-18 17:13:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-05-18 15:12:08 +0800"
     },
     "done": true
   },
